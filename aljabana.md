@@ -8,3 +8,4 @@
  <!-- link -->
  [gitub.com](https://github.com/aljabana002)
  
+get more information about me on my github.com
